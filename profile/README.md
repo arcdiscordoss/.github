@@ -1,1 +1,1 @@
-C:/Users/aarush/Downloads/.github/README.md
+../README.md
